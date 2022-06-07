@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá, eu me chamo Victor Candido, atualmente estudando e praticando HTML, CSS e JavaScript. Estou ansioso para começar a contribuir nesse mundo incrível da tecnologia.
 
-<!--
-**victorjrcandido/victorjrcandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Link do meu Linkedin: https://www.linkedin.com/in/victorjrcandido/
 
-Here are some ideas to get you started:
+Vamos nos conectar? 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+-------
+
+
+Hi, my name is Victor Candido, currently studying and practicing HTML, CSS and JavaScript. I look forward to starting to contribute to this amazing world of technology.
+
+Link to my Linkedin: https://www.linkedin.com/in/victorjrcandido/
+
+Shall we connect? 👋
