@@ -1,4 +1,4 @@
-Olá, eu me chamo Victor Candido, atualmente estudando e praticando HTML, CSS e JavaScript. Estou ansioso para começar a contribuir nesse mundo incrível da tecnologia.
+Olá, eu me chamo Victor Candido, atualmente estudando e praticando Desenvolvimento Front-end. Estou ansioso para começar a contribuir nesse mundo incrível da tecnologia.
 
 Linkedin: https://www.linkedin.com/in/victorjrcandido/
 
