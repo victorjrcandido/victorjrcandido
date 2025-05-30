@@ -15,4 +15,4 @@ Linkedin: https://www.linkedin.com/in/victorjrcandido/
 
 Shall we connect? 👋
 
-https://pastebin.com/qQVA8NzZ
+https://pastebin.com/YzbXxgUL
