@@ -14,5 +14,3 @@ Hi, my name is Victor Candido, currently studying and practicing HTML, CSS, Java
 Linkedin: https://www.linkedin.com/in/victorjrcandido/
 
 Shall we connect? 👋
-
-https://pastebin.com/YzbXxgUL
